@@ -1,0 +1,5 @@
+rootProject.name = "SkinFlycotablayout"
+include ':app'
+include ':androidx:skin-support-appcompat'
+include ':third-part-support:flycotablayout'
+include ':androidx:skin-support'
