@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
-    buildToolsVersion "30.0.3"
+    namespace 'spa.lyh.cn.skinflycotablayout'
+    compileSdk 34
 
     defaultConfig {
         applicationId "spa.lyh.cn.skinflycotablayout"
-        minSdkVersion 23
-        targetSdkVersion 30
+        minSdk 23
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
